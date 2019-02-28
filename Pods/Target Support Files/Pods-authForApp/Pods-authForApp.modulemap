@@ -1,0 +1,6 @@
+framework module Pods_authForApp {
+  umbrella header "Pods-authForApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
